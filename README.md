@@ -2,6 +2,6 @@
 
 ## Un video ma mi gente
 
-Hola github
+Hola github, como dise mi gente
 
 ![elie](pagaro.webp)
